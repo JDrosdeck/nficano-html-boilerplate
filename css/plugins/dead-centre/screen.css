@@ -1,0 +1,22 @@
+#centre {
+	height:480px;
+	left:50%;
+	margin-left:-327px;
+	position:absolute;
+	top:-240px;
+	visibility:visible;
+	width:655px;
+}
+
+#horizon {
+	display:block;
+	height:1px;
+	left:0;
+	overflow:visible;
+	position:absolute;
+	text-align:center;
+	top:50%;
+	visibility:visible;
+	width:100%;
+}
+
