@@ -1,0 +1,13 @@
+.*
+!.gitignore
+*~
+*.sw[a-p]
+.directory
+Thumbs.db
+Desktop.ini
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.py[co]
